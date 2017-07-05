@@ -1,2 +1,2 @@
-# sketches
+# 🎨 Sketches
 My personal sketches
